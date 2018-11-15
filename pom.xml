@@ -25,6 +25,7 @@
     <modules>
         <module>clientdemo</module>
         <module>eureka_server1</module>
+        <module>zuul_server</module>
     </modules>
 
 
